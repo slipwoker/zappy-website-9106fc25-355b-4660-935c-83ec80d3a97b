@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kalourart-9106fc25.zappy5.app/sitemap.xml
