@@ -1,57 +1,75 @@
-# KalourArt — Generative Engine Optimization Map
-
-> A אומנות ומוצרי יצירה business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://kalourart-9106fc25.zappy5.app
+https://example.com/page-1767255651677
 KalourArt - חנות אומנות מובילה לחומרי אומנות לגני ילדים ומוסדות חינוך. קניית ציוד אומנות אונליין ישראל עם משלוחים מהירים!
 
-### מוצרים
-https://kalourart-9106fc25.zappy5.app/products
-מגוון עצום של חומרי אומנות לגני ילדים וציוד אומנות למוסדות חינוך. חנות אומנות מקצועית עם מאות מוצרים במלאי!
+### Products
+https://example.com/products
+המוצרים שלנו - KalourArt
 
 ### אודות
-https://kalourart-9106fc25.zappy5.app/about
+https://example.com/about
 הכירו את KalourArt - חנות אומנות מובילה המתמחה בחומרי אומנות לגני ילדים וציוד אומנות למוסדות חינוך. קניית ציוד אומנות אונליין ישראל.
 
 ### צור קשר
-https://kalourart-9106fc25.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם KalourArt - חנות אומנות מובילה. נשמח לעזור בבחירת חומרי אומנות לגני ילדים וציוד אומנות למוסדות חינוך.
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - KalourArt
+
+### Category
+https://example.com/category/:slug
+מוצרים - KalourArt
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://kalourart-9106fc25.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://kalourart-9106fc25.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://kalourart-9106fc25.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About KalourArt
-KalourArt is a business in the אומנות ומוצרי יצירה industry.
-
-## Target Audience
-אמנים מקצועיים, חובבי אומנות ויצירה, גני ילדים ומוסדות חינוך - קהל רחב המשלב מקצוענים וחובבים
-
-## Industry
-אומנות ומוצרי יצירה
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://kalourart-9106fc25.zappy5.app/sitemap.xml
-- **Robots.txt**: https://kalourart-9106fc25.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
